@@ -2,9 +2,13 @@
 ## Wuhuan University 2022 Information Hidden Final Experiment
 
 Encode Client
+
 ![image](https://github.com/lmyleopold/AuDioHiDDeN/assets/92246296/a10c8e81-d293-4567-bf33-f6c4f8f82e72)
+
 Decode Client
+
 ![image](https://github.com/lmyleopold/AuDioHiDDeN/assets/92246296/ea32fba3-411b-4c31-82e8-fb07726532b0)
+
 (More detailed information to be added)
 
 ### Contributions
