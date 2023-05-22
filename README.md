@@ -3,6 +3,12 @@
 
 (More detailed information to be added)
 
+### Contributions
+- [Fsadness](https://github.com/Fsadness)
+- [lmyleopold](https://github.com/lmyleopold)
+- [q1a2z3w4s56](https://github.com/q1a2z3w4s56)
+- Liu
+
 > Referance:
 >
 > J. Zhu, R. Kaplan, J. Johnson, and L. Fei-Fei. Hidden: Hiding Data With Deep Networks.Xu, Y., Z. Xia, Z. Wang, X. Zhang and J. Weng. 2022. Deniable steganography.
